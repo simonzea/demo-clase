@@ -16,9 +16,12 @@ a
 * item 2
 * item 3
 
---
+---
 esta  palabra esta en **negrilla**
 
 esta palabra esta en .*intalica*.
 
 www.google.com 
+
+
+q cosas no ?
